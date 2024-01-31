@@ -14,8 +14,8 @@ LIST
   1. item1
   2. Item2
   3. Item3
-     1.item3.1
-     2.item3.2
+     1.  item3.1
+     2.  item3.2
 
   LINKS
   [link text](https://nehmtech.com)
