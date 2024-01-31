@@ -4,11 +4,11 @@ _This one also is italised_
 EMPHASIS
 
 LIST
--Item one
--Item two
--Item Three
-  -Sub 1
-  -Sub 2
+  - Item one
+  - Item two
+  - Item Three
+    - Sub 1
+    - Sub 2
 
   Ordered List
   1. item1
